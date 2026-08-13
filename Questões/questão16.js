@@ -1,0 +1,14 @@
+const numeroA = 10;
+const numeroB = 3;
+soma = numeroA + numeroB;
+subtracao = numeroA - numeroB;
+divisao = numeroA / numeroB;
+multiplicacao = numeroA * numeroB;
+resto = numeroA % numeroB;
+potencia = numeroA ** numeroB;
+console.log(soma);
+console.log(subtracao);
+console.log(multiplicacao);
+console.log(divisao);
+console.log(resto);
+console.log(potencia);
